@@ -1,3 +1,3 @@
 @Library('roboshop') _
 
-java()
+nodejs()
